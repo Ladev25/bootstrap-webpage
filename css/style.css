@@ -93,10 +93,11 @@ background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed
     border-color: #f05f40;
 }
 
-.btn--red:hover 
-.btn--red:active
-.btn--red:focus
+.btn--red:hover, 
+.btn--red:active,
+.btn--red:focus,
 .btn--red:active:focus {
+    color: white;
     background-color: #df4929;
     border-color: #df4929;
 }
